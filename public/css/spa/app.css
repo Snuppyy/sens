@@ -1,0 +1,91 @@
+.v-data-table__progress .v-progress-linear{position:absolute}.nowrap{white-space:nowrap}body.module-editor-table-column-resizing{cursor:ew-resize}
+
+html.teleprompter, html.teleprompter body,
+html.teleprompter #app, html.teleprompter .v-application, html.teleprompter main,
+.slick-list, .slick-track {
+    height: 100%;
+}
+
+.slick-slide {
+    display: flex !important;
+    flex-direction: column;
+    height: 100%;
+    overflow: hidden;
+    outline: none;
+    background-color: #fff;
+    padding: 0 48px 24px;
+}
+
+.slick-slider.maximized .slick-track {
+    transform: none !important;
+}
+
+.slick-slide.maximized {
+    position: absolute;
+    width: 100vw !important;
+    padding: 0 160px 24px 160px;
+}
+
+.step-header {
+    display: flex;
+    justify-content: flex-start;
+    border-top: 64px solid #eee;
+    padding: 24px 48px 0;
+    margin: 0 -48px;
+}
+
+.step-header.current {
+    border-color: #39922d;
+}
+
+.step-header.started {
+    border-color: #555555;
+}
+
+.step-number {
+    font-size: 160px;
+    margin-right: 24px;
+    font-weight: bold;
+}
+
+.step-text {
+    font-size: 48px;
+    flex-grow: 1;
+}
+
+.slick-slide.maximized .step-text {
+    overflow: auto;
+    padding-right: 320px;
+}
+
+.step-timings, .step-tests {
+    font-size: 64px;
+    margin-top: 48px;
+    line-height: 1;
+}
+
+.step-tests {
+    /* font-size: 80px;
+    margin-top: 24px;
+    margin-right: 64px; */
+    color: #999;
+}
+
+.step-timings div + div {
+    font-size: 32px;
+}
+
+.step-timings {
+    margin-right: auto;
+}
+
+.teleprompter-timer {
+    position: fixed;
+    right: 0;
+    bottom: -32px;
+    opacity: .5;
+    padding: 32px;
+    background-color: #fff;
+    font-size: 140px;
+    z-index: 1;
+}

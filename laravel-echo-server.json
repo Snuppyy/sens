@@ -1,0 +1,38 @@
+{
+	"authHost": "https://creator.sens.uz",
+	"authEndpoint": "/broadcasting/auth",
+	"clients": [
+		{
+			"appId": "1ae48ae59e87f327",
+			"key": "e29885a7ee1155f2391e9c8f80d8702d"
+		}
+	],
+	"database": "redis",
+	"databaseConfig": {
+		"redis": {
+            "port": "6379",
+            "host": "localhost",
+			"password": "jH68bdFE52lbcTW"
+		},
+		"sqlite": {}
+	},
+	"host": "localhost",
+	"port": "6001",
+	"protocol": "http",
+	"socketio": {},
+	"secureOptions": 67108864,
+	"sslCertPath": "",
+	"sslKeyPath": "",
+	"sslCertChainPath": "",
+	"sslPassphrase": "",
+	"subscribers": {
+		"http": false,
+		"redis": true
+	},
+	"apiOriginAllow": {
+		"allowCors": false,
+		"allowOrigin": "",
+		"allowMethods": "",
+		"allowHeaders": ""
+	}
+}

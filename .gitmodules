@@ -1,0 +1,3 @@
+[submodule "resources/frontend"]
+	path = resources/frontend
+	url = ./resources/frontend/

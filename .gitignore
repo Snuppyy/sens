@@ -1,0 +1,16 @@
+/node_modules
+/public/hot
+/public/storage
+/public/adminer.*
+/storage/*.key
+/vendor/*
+
+!/vendor/dompdf
+/vendor/dompdf/dompdf/*
+!/vendor/dompdf/dompdf/src
+/vendor/dompdf/dompdf/src/*
+!/vendor/dompdf/dompdf/src/Cellmap.php
+!/vendor/dompdf/dompdf/src/Helpers.php
+
+.env
+laravel-echo-server.lock

@@ -1,0 +1,31 @@
+@extends('layouts.frontend')
+
+@section('content')
+<div class="container">
+    <div class="row justify-content-center">
+        <div class="col-md-12">
+            @switch (App::getLocale())
+                @case('uz')
+                    <p>Ushbu sahifada sil xaqida bilimlaringizni  tekshirishingiz va oshirishingiz mumkin.</p>
+                    <p>So'rovnomadan <a href="{{ route('questionnaire', ['level' => 1]) }}">o'tish</a> va bazoviy bilimlarni anonim tarzda o'rganishingiz mumkin yoki <a href="{{ route('register') }}">ro'yxatdan o'tib</a> yoki ijtimoiy tarmoq orqali <a href="{{ route('login') }}">kirish</a> bilan o'zingiz xaqingizda ozgina ma'lumot berib, sil kasali to'g'risida chuqurroq ma'lumotlarga ega bo'lasiz.</p>
+                    @break
+
+                @case('uz-cyr')
+                    <p>Ушбу саҳифада сил хақида билимларингизни текширишингиз ва оширишингиз мумкин.</p>
+                    <p>Сўровномадан <a href="{{ route('questionnaire', ['level' => 1]) }}">ўтиш</a> ва базовий билимларни аноним тарзда ўрганишингиз мумкин ёки <a href="{{ route('register') }}">руйхатдан ўтиб</a> ёки ижтимоий тармоқ орқали <a href="{{ route('login') }}">кириш</a> билан ўзингиз хақингизда озгина маълумот бериб, сил касали тўғрисида чуқуррок маълумотларга эга бўласиз.</p>
+                    @break
+
+                @default
+                    <p>На этой странице вы можете проверить и улучшить свои знания о туберкулёзе.</p>
+                    <p>Можно <a href="{{ route('questionnaire', ['level' => 1]) }}">пройти</a> опрос и обучение знаниям базового уровня анонимно, либо <a href="{{ route('register') }}">зарегистрироваться</a> или <a href="{{ route('login') }}">войти</a> через соцсеть, предоставить немного сведений о себе и получить доступ к более углублённой информации на тему туберкулёза.</p>
+
+            @endswitch
+
+            <p>
+                @include('components.social_login')
+            </p>
+
+        </div>
+    </div>
+</div>
+@endsection

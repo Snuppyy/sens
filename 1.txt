@@ -1,0 +1,800 @@
+1. Что такое туберкулез?
+Tuberkulyoz- bu nima?
+* 1) Туберкулез – это инфекционное заболевание.
+* 1) Tuberkulyoz-bu infeksion kasallik
+  2) Туберкулез – это хроническое заболевание.
+  2) Tuberkulyoz-bu surunkali kasallik
+  3) Туберкулез – это неврологическое заболевание.
+  3) Tuberkulyoz-bu asab kasalligi
+  4) Туберкулез это – кожно-венерологическое заболевание.
+  4) Tuberkulyoz-bu teri-tanoTuberkulyoz kasalligi
+
+
+2. Какой орган чаще всего поражает туберкулез?
+Tuberkulyoz -asosan qaysi organlarni shikastlaydi?
+* 1) Легкие.
+* 1) O'pka
+  2) Сердце.
+  2) Yurak
+  3) Мозг.
+  3) Miya
+  4) Кости.
+  4) Suyaklar
+
+
+3. Какими микроорганизмами вызывается туберкулез?
+Qaysi mikroblar tuberkulyoz kasalligini qo'zg'atadi?
+* 1) Палочкой Коха.
+* 1) Kox tayoqchasi
+  2) Простейшими.
+  2) Bir hujayralilar
+  3) Пневмококком.
+  3) Pnevmokoklar
+  4) Вирусами.
+  4) Viruslar
+
+
+4. Сколько времени необходимо для размножения палочки Коха в организме человека?
+Qancha vaqt ichida Kox tayoqchasi odam organizmida ko'payadi?
+* 1) От 15 до 18 часов.
+* 1) 15 soatdan 18 soatgacha
+  2) От 2 до 5 часов.
+  2) 2 soatdan 5 soatgacha
+  3) От 5 до 8 часов.
+  3) 5 soatdan 8 soatgacha
+  4) От 7 до 9 часов.
+  4) 7 soatdan 9 soatgacha
+
+
+5. Какие условия являются наиболее благоприятными для размножения палочки Коха?
+Kox tayoqchasining ko‘payishi uchun qanday sharoitlar eng qulay hisoblanadi?
+* 1) Сырость, темнота и температура от +30⁰С до +40⁰С.
+* 1) Namlik, qorong'ulik va harorat +30⁰C dan +40⁰C gacha
+  2) При солнечных лучах и температуре от +15⁰С до +25⁰С.
+  2) Quyosh nurida va harorat +15⁰C dan +25⁰C gacha
+  3) Открытые, хорошо проветриваемые помещения.
+  3) Ochiq, yaxshi havo almashadigan joylar
+  4) При температуре воздуха от -15⁰С и ниже.
+  4) -15⁰S va undan past havo haroratida
+
+
+6. Как обычно происходит заражение человека туберкулезом?
+Tuberkulyoz kasalligi odatda insonga qanday yuqadi?
+* 1) Воздушно-капельным путем.
+* 1) Havo-tomchi yo'li orqali
+  2) При переливании крови.
+  2) Qon quyish orqali
+  3) Через рукопожатие.
+  3) Qo'l berib ko'rishganda
+  4) Через инфицированные медицинские инструменты (шприцы, иглы и т.д.).
+  4) Infektsiyalangan tibbiy asboblar (shpritslar, ignalar va boshqalar) orqali.
+
+
+7. Что может являться источником туберкулезной инфекции для человека?
+Tuberkulyoz kasalligining manbai bo'lishi mumkin?
+* 1) Больной туберкулезом человек.
+* 1) Tuberkulyoz bilan og'rigan bemor
+  2) Люди, живущие с ВИЧ.
+  2) OIV bilan yashovchi kishilar
+  3) Рыбы.
+  3) Baliqlar
+  4) Общественный транспорт.
+  4) Jamoat transporti
+
+
+8. В каких случаях больной не представляет опасности для окружающих?
+Qanday hollarda Tuberkulyoz bilan og'rigan bemor boshqalarga xavf tug'dirmaydi?
+* 1) Когда больной туберкулезом начал курс лечения, продолжает лечиться амбулаторно и не выделяет микобактерии туберкулеза вовне.
+* 1) Tuberkulyoz bilan og'rigan bemor davolanish kursini boshlagan bo'lsa, ambulatoriya sharoitida davolanishni davom ettirsa va tuberkulyoz mikobakteriyasini tashqariga chiqarmasa
+  2) Когда больной туберкулезом не знает о своем заболевании туберкулезом, но получает неспецифическое лечение ОРВИ.
+  2) Tuberkulyoz bilan og'rigan bemor o'zining Tuberkulyoz kasalligi haqida bilmaydi, lekin ORVI ga qarshi nomahsus davo olsa
+  3) Когда больной бациллярной формой туберкулеза перестает кашлять в ходе лечения.
+  3) Bakteriyal turi tuberkulyoz bilan og'rigan bemor davolanish vaqtida yo'talishi to'xtatanda
+  4) Когда у больного бациллярной формой туберкулеза перестает подниматься выше нормы температура тела.
+  4) Bakteriyal turi tuberkulyoz bilan og'rigan bemor normal tana harorati ko'tarilishi to'xtatasa
+
+
+9. Какие существуют меры специфической профилактики туберкулеза?
+Tuberkulyoz kasalligining mahsus profilaktikasi qanday tadbirlardan iborat?
+* 1) Прививки вакциной БЦЖ
+* 1) BCG vaktsinasi bilan emlash
+* 2) Ежегодное флюорографическое обследование
+* 2) Yillik fluorografik tekshiruv
+* 3) Тест на туберкулез
+* 3) Tuberkulyoz testi
+  4) Стерилизация медицинских инструментов
+  4) Tibbiy asboblarni sterilizatsiya qilish
+  5) Введение иммуноглобулина
+  5) Immunoglobulinni yuborish
+  6) Отказ от пользования общественными туалетами
+  6) Umumiy hojatxonalardan foydalanishdan voz kechish
+  7) Прием горячего чая перед выходом на улицу в холодное время года
+  7) Sovuq kunda ko`chaga chiqishdan oldin issiq choy ichish
+
+
+10. Какие факторы способствуют заболеванию туберкулезом?
+Qaysi omillar Tuberkulyoz bilan kasallanishga sabab bo'ladi?
+* 1) Табакокурение.
+* 1) Chekish
+* 2) Злоупотребление алкоголем.
+* 2) Alkogolga ruju qo'yish
+* 3) Неполноценное питание.
+* 3) Yaxshi ovqatlanmaslik
+  4) Острые респираторные заболевания, ангины.
+  4) Tez-tez respirator kasalliklarga chalinish, angina
+  5) Заболевания нервной системы.
+  5) Asab kasalliklari
+  6) Аллергические заболевания.
+  6) Allergik kasalliklar
+
+
+11. Что образуется в органах и тканях при туберкулезе?
+Tuberkulyoz kasaliga chalinganda a`zolar va to'qimalarda nima paydo bo'ladi?
+* 1) Бугорки.
+* 1) Do'ngliklar
+  2) Гнойники.
+  2) Yiring to'plami
+  3) Опухоли.
+  3) O'simta
+  4) Костяные наросты.
+  4) Suyak o'sishi
+
+
+12. Почему больные ВИЧ-инфекцией могут заразиться и заболеть туберкулезом?
+Nima uchun OIV infektsiyasi mavjud insonlarda Tuberkulyoz kasalligini yuqtirib olishi va unga chalinishi mumkin?
+* 1) На фоне ослабленного иммунитета развивается туберкулез.
+* 1) Immunitetning zaiflashishi fonida tuberkulyoz kasalligi rivojlanadi
+  2) Наличие вирусов в организме является основой для заражения туберкулезом.
+  2) Organizmda viruslarning mavjudligi tuberkulyoz kasalligini yuqtirish uchun asosdir
+  3) Низкий иммунитет не может быть причиной заражения туберкулезом.
+  3) Past immunitet tuberkulyoz kasalligi bilan kasallanishning sababi bo'lishi mumkin emas
+  4) Потому что ЛЖВ знают о мерах профилактики заражения при наличии ВИЧ в организме.
+  4) Chunki OIV bilan yashovchi kishilar zararlanishga qarshi profilaktika chora -tadbirlarini bilishadi
+
+
+13. Что включает в себя обследование на ТБ людей, живущих с ВИЧ?
+OIV bilan yashovchi insonlarni tuberkulyozga qanday tekshiriladi?
+* 1) Тест на ТБ, флюорография, исследование мокроты.
+* 1) Tuberkulyoz testi, fluorografiya, balg'am tekshiruvi
+  2) Электрокардиограмма, флюорография, общий анализ крови.
+  2) Elektrokardiogramma, flyoorografiya, umumiy qon ro'yxati
+  3) Ульразвуковое исследование легких и печени, общий анализ крови.
+  3) O'pka va jigarni ultratovush tekshiruvi, umumiy qon tahlili
+  4) Общий анализ мочи, определение вирусной нагрузки и количества СD4.
+  4) siydik tahlili, virus yukini va CD4 sonini aniqlash
+
+
+14. В какой возрастной период можно проверить на туберкулез ребенка, родившегося от матери с ВИЧ-положительной статусом?
+Musbat OIV-maqomiga ega bo'lgan onadan tug'ilgan bolani qaysi yosh davrida Tuberkulyozga tekshirish mumkin?
+* 1) 9-12 месяцев.
+* 1) 9-12 oyda
+  2) 6-7 месяцев.
+  2) 6-7 oyda
+  3) 2-3 месяца.
+  3) 2-3 oyda
+  4) После 2-х лет.
+  4) 2 yoshdan so'ng
+
+
+15. Какое профилактическое лечение назначается людям с ВИЧ-положительным статусом при отсутствии у них активного туберкулеза?
+OIV ijobiy bo'lgan shahslarda faol tuberkulyozdan qanday profilaktik davolanish tayinlanadi?
+* 1) Изониазид на 6 месяцев.
+* 1) Izoniazid 6 oyga
+  2) Азитромицин на 4 месяца.
+  2) Azitromitsin 4 oyga
+  3) Метронидазол на 5 месяцев.
+  3) Metronidazol 5 oyga
+  4) Ампициллин на 3 месяца.
+  4) AmpitTuberkulyozin 3 oyga
+
+
+16. Какие из перечисленных признаков относятся к туберкулезу легких?
+Quyidagilardan qaysi biri o‘pka tuberkulyoziga xosdir?
+* 1) Кашель больше 2-х недель.
+* 1) Ikki haftadan ortiq yo'tal
+* 2) Температура тела 37⁰C-37,5⁰C.
+* 2) Tana harorati 37⁰C-37,5⁰S
+* 3) Боли в грудной клетке.
+* 3) Ko'krak qafasida og'riq
+* 4) Снижение аппетита и потеря веса.
+* 4) Ishtaha va vaznning yo'qolishi
+* 5) Потливость и утомляемость.
+* 5) Charchash va terlash
+  6) Боли в правом подреберье и желтушность склер.
+  6) O'ng qovurg'a va ko'z pardasining sarg'ayishi
+  7) Нарушение психики и сна.
+  7) Ruhiyat va uyquning buzilishi
+  8) Повышенное выпадение волос.
+  8) Ko'p soch to'kilishi
+  9) Зуд и покраснение кожи.
+  9) Terining qichishi va qizarishi
+
+
+17. При каких условиях туберкулез может переходить в устойчивую форму?
+Qanday sharoitda Tuberkulyoz turg'un shaklga o'tishi mumkin?
+* 1) При неправильном лечении и перерывах в лечении.
+* 1) Noto'g'ri davolanish va davolanishdagi uzilishlar
+  2) При выполнении всех предписаний врача и приверженности к лечению туберкулеза.
+  2) Shifokorning barcha ko'rsatmalarini bajarganda va Tuberkulyozga qarshi davolanishga sodiqligi bo'lganda
+  3) При наличии частых простудных зоболеваний/ОРВИ.
+  3) Agar sizda tez-tez shamollash / O'RVI bo'lsa
+  4) При лечении средствами народной медицины.
+  4) Xalq tabobati usullari bilan davolanmaganda
+
+
+18. Какие из перечисленных методов могут выявить туберкулез?
+Quyida keltirilgan usullarning qaytuberkulyozari Tuberkulyozni aniqlashi mumkin?
+* 1) Клиническая оценка симпотомов.
+* 1) Simptomlarni klinik baholash
+* 2) Бактериологическое исследование.
+* 2) Bakteriologik tekshiruv
+* 3) Лучевая диагностика
+* 3) Nur diagnostikasi
+* 4) Тест на ТБ.
+* 4) Tuberkulyoz test
+* 5) Экспресс анализ на туберкулез.
+* 5) Tuberkulyozga ekspres tahlillar
+  6) Общий анализ крови.
+  6) Umumiy siydik tahlili
+  7) Копрологическое исследование.
+  7) Ultratovush tahlili
+  8) Развернутая формула крови.
+  8) Umumiy qon ro'yxati
+
+
+19. Что такое метод GeneXpert MTB/RIF?
+GeneХpert MTB/RIF usuli nima?
+* 1) Это молекулярно-генетический метод, который позволяет выявить микобактерии туберкулеза (МБТ) в мокроте.
+* 1) Bu molekulyar-genetik usuli bo'lib balg'amda TMB aniqlashning imkoniyatini beradi
+  2) Это метод исследования, который позволяет изучить эмоциональное состояние человека.
+  2) Bu usul odamning emotsional holatini o'rganishga imkoniyat beradi
+  3) Это метод, который позволяет изучить генетические заболевания человека.
+  3) Bu usul odamdagi genetik kasalliklarni o'rganishga imkoniyat beradi
+  4) Это метод, который позволяет тестировать физиологические реакции организма человека.
+  4) Bu usul odam organizmidagi fiziologik reaktsiyalarni o'rganish imkoniyatini beradi
+
+
+20. Какой метод использует GeneXpert MTB/RIF?
+Gene Xpert MTB/RIF qaysi usulni qo'llaydi?
+* 1) Метод полуколичественной гнездовой полимеразной цепной реакции в реальном времени.
+* 1) Yarim miqdorli inli polimerazli zanjir reaktsiya (PSR)usulini qo'llaydi.
+  2) Метод качественного определения наличия в сыворотке или плазме крови человека IgМ-антител.
+  2) Odam qonidagi plazma yoki suyuqlikdagi IgМ-antitelni aniqlashning sifat usuli
+  3) Метод поляризационной микроскопии с окраской по Цилю-Нильсену.
+  3) Ttuberkulyozyo-Nilson buyicha polyarizatsion rangli mikroskopik tekshirish usuli
+  4) Метод гетерогенного или твердофазного анализа на основе фермент-иммуноопределения.
+  4) Ferment-immunoaniqlashning geterogen yoki qattiq fazali tahliliy usuli
+
+
+21. Каковы основные задачи медицинского работника в сети ПМСП в сфере ТБ?
+BTSYO tarmog'i tibbiyot xodimining asosiy vazifalari nimalardan iborat?
+* 1) Диагностика лиц, подозреваемых на туберкулез.
+* 1) Tuberkulyozga shubha uyg'otgan bemorni tashxisdan o'tkazish
+* 2) Сбор 2-х образцов мокроты для микроскопического исследования.
+* 2) Mikroskopik tadqiqot uchun tekshirish materialning (balg'amning) sifatli 2-ta namunasini yig'ilishini ta'minlash
+* 3) Перенаправление пациента с подозрением на туберкулез в противотуберкулезный диспансер.
+* 3) Tuberkulyozga shubha uyg'otgan bemorni tashxisni tasdiqlash va davolash uchun tuberkulyozga qarshi dispanserga yuborish
+* 4) Проведение санитарно-просветительной работы среди населения о туберкулезе.
+* 4) Tuberkulyozning alomatlari haqida, tibbiy yordam uchun o'z vaqtida murojaat etish haqida aholi o'rtasida sanitar-ma'rifiy ishlarni olib borish.
+* 5) Наблюдение за лицами из "групп риска" в соответствии с нормативными актами.
+* 5) Me'yoriy hujjatlarga muvofiq“xavf guruhidan” shaxslarni kuzatib borish.
+* 6) Мониторинг выздоровления больных туберкулезом, находящихся на амбулаторном лечении.
+* 6) Ambulator shroitida davolanishda b'olgan shaxlar tuberkulyozdan davolanishlarining monitoringiun amalga oshirish
+  7) Наблюдение за здоровьем общего населения.
+  7) Umumiy aholining salomatligini kuzatish
+  8) Наблюдение пациентов, находящихся на стационарном лечении.
+  8) Statsionat sharoitda davolanishda bo'lgan bemorlarni kuzatish
+  9) Ведение учета онкобольных в махалле.
+  9) Maxallada onkokasallarni ro'yxatga olish
+
+
+22. Какие лица подлежат бактериологическому исследованию мокроты на туберкулез?
+Kimlar tuberkulyozga balg'amni bakteriologik tekshirishdan o'tishlari lozim?
+* 1) Лица с жалобами на кашель с продолжительностью более 2-х недель
+* 1) Ikki hafta davomidagi yo'talga shikoyat qilgan shaxslar
+* 2) Лица, имеющие рентгенологические изменения в легочных полях.
+* 2) O'pka maydonlaridagi rentgenologik o'zgarishlariga ega bo'lgan shaxslar
+* 3) Лица из "группы риска", страдающие хроническими неспецифическими заболеваниями органов дыхания.
+* 3) Nafas olish organlarining surunkali nospetsifik kasalliklari (zo'riqish davrida)bilan aziyat chekuvchi “xavf guruhi”dagi shaxslar
+  4) Лица с жалобами на повышение температуры тела свыше 38⁰С.
+  4) Tana harorati 38⁰С dan ko'tarilishiga shikoyat qilgan shaxlar
+  5) Лица, резко потерявшие вес.
+  5) Keskin ravishda vazn yo'qotgan shaxlar
+  6) Лица, набравшие вес на короткий срок.
+  6) Jazo muddatini o'tash joyidan ozd etilgan shaxlar
+  7) Лица, освободившиеся из мест лишения свободы.
+  7) Qisqa muddat ichida vazn to'plagan shaxlar
+  8) Лица, с жалобами на постоянную усталость.
+  8) Doimiy charchashdan shikoyat qilgan shaxslar
+
+
+23. Где и как проводится сбор мокроты для обследования на туберкулез?
+Bal'amni yigish qaerda va qanday o'tkaziladi?
+* 1) Двукратно в медицинских учреждениях по месту обращения пациента.
+* 1) Bemor murojaat qilgan joy bo'yicha ikki miqdordagi balg'am yig'ish o'tkaziladi
+  2) Двукратно в частной медицинской клинике.
+  2) Ikki marta xususiy klinikada
+  3) Однократно в любом медицинском учреждении.
+  3) Bir marta har qanday tibbiyot muassasasida
+  4) Трехкратно в поликлинике по месту жительства.
+  4) Uch marta yashash joyi bo'yicha poliklinikada
+
+
+24. Каковы действия врача общей практики при двукратных отрицательных результатах исследования мокроты на КУБ при обследовании больного с подозрением на туберкулез?
+KCHBga balg'amni bakteriologik tadqiqot natijalarining ikki karra salbiy
+* 1) Направление больного на флюорографию или рентгенографию.
+* 1) Bemorlar ko'krak qafasi organlarining flyuorografiyasiga yoki rentgenografiyasiga yuboriladi
+  2) Направление на амбулаторное лечение.
+  2) Ambulator davolanishga yuboriladi
+  3) Направление на стационарное лечение.
+  3) Statsionar davolanishga yuboriladi
+  4) Направление на лечение в домашних условиях.
+  4) Bemor uy shroitida davolanadi
+
+
+25. В каких случаях больные немедленно направляются в противотуберкулезные учреждения?
+Qaysi holatlarda bemorlar zudlik bilan tuberkulyozga qarshi muassasaga yuboriladi?
+* 1) При подозрении на милиарный ТБ.
+* 1) Miliar tuberkulyozga shubhalangan bemorlar zudlik bilan tuberkulyozga qarshi muassasaga
+  2) При подозрении на воспаление легких.
+  2) O’pka shamollanishiga shubҳa o'yg’onganida
+  3) Очаговый ТБ.
+  3) Tuberkulyoz o'chogi
+  4) Туберкулез без бактериального выделения.
+  4) Bakteriyalarni ajratmaydigan tuberkulyoz
+
+
+26. Каковы действия врача при необходимости проведения дифференциальной диагностики туберкулеза с бронхитом или пневмонией?
+Вronxitni yoki zotiljamni differentsial tekshiruvini o'tkazishda shifokor nima qilishi kerak?
+* 1) Назначается тест-терапия антибиотиками широкого спектра действия в течение 2-х недель.
+* 1) 2 hafta (14 kun)davomida antibiotiklarning keng ta'sir spektri test-terapiyasi tayinlanadi
+  2) Назначается общая противовоспалительная тест терапия на 1 неделю.
+  2) 1 haftaga shamollashga qarshi test -terapiya tayinlanadi
+  3) Назначается тест-терапия УВЧ.
+  3) UDCH test-terapiya tayinlanadi
+  4) Назначаются тест-терапия средствами народной медицины (кумыс, шубат, мед, прополис) в течение 2 недель.
+  4) 2 hafta davomida xalq tabobati usullari bilan test- terapiya tayinlanadi (qimis, tuya suti, asal, asalari elimi)
+
+
+27. В чем заключается интенсивная фаза лечения при лекарственно чувствительной форме туберкулеза?
+Tuberkulyozning dorilarga sezuvchan shaklini jadal davolash nima?
+* 1) Применение 4-5 противотуберкулезных препаратов в течение 2-3 месяцев.
+* 1) 2-3 oy davomida 4-5 tuberkulyozga qarshi dori vositalari tayinlanadi
+  2) Применение иммунотерапии в течение 5-6 месяцев.
+  2) 5-6 davomida immunoterapiya qo'llaniladi
+  3) Применение инъекций антибиотиков широкого спектра действия в качестве тест-терапии течение 2-х недель.
+  3) 2 hafta davomida keng ta'sirli antibiotik test-terapiyasi qo'llaniladi
+  4) Применение 5-6 противотуберкулезных препаратов в течение 8 месяцев.
+  4) 8 oy davomida 5-6 antibiotiklar qo'llaniladi
+
+
+28. В чем заключается интенсивная фаза лечения при устойчивой форме туберкулеза?
+Tuberkulyozning turg'un shakllini jadal davolash nimai?
+* 1) Применение 5-6 противотуберкулезных препаратов до 8 месяцев.
+* 1) 8 oygacha tuberkulyozga qarshi 5-6 dori vositalari tayinlanadi
+  2) Применение средств народной медицины (кумыс, шубат, мед, прополис) до 12 месяцев.
+  2) 12 oygacha xalq tabobati usullari bilan davolash usuli qo'llaniladi (qimiz, tuya suti, asal, asalari elimi)
+  3) Применение 4-5 противотуберкулезных препаратов до 2-3 месяцев.
+  3) 2-3  oygacha  4-5 tuberkulyozga qarshi dorilar qo'llaniladi
+  4) Применение иммунотерапии до 12 месяцев.
+  4) 12 oygacha immunoterapiya qo'llaniladi
+
+
+29. В чем заключается поддерживающая фаза лечения при лекарственно чувствительной форме туберкулеза?
+Tuberkulyozi sezuvchan shaklida qo'llab-quvvatlab turuvchi fazasi nima?
+* 1) Применение 2-3 противотуберкулезных препаратов в течение 4-5 месяцев.
+* 1) Tuberkulyozni sezuvchan shaklini qo'llab quvvatlab turuvchi fazasida 4-5 oy davomida 2-3 dori vositasi tayinlanadi
+  2) Применение иммунотерапии в течение 6 месяцев.
+  2) 6 oy davomida immunoterapiya qo'llaniladi
+  3) Применение тест-терапии витаминами группы B в течение 2 недель.
+  3) 2 hafta B vitamin guruhi bilan test terapiyasi qo'llaniladi
+  4) Применение 5-6 видов антибиотиков в течение 2 месяцев.
+  4) 2 oy davomida 5-6 antibiotiklar qo'llaniladi
+
+
+30. В чем заключается поддерживающая фаза лечения при устойчивой форме туберкулеза?
+Tuberkulyozi sezuvchan shaklida qo'llab-quvvatlab turuvchi fazasi qanday amalga oshiriladi?
+* 1) Применение 3-4 противотуберкулезных препаратов более 12 месяцев.
+* 1) 12 oydan ko'proq tuberkulyozga qarshi 3-4 dori vositalari tayinlanadi
+  2) Применение средств народной медицины в течение 1 года (кумыс, шубат, мед, прополис и др.).
+  2) 1 yil davomida xalq tabobati usullari bilan davolash usuli qo'llaniladi (qimiz, tuya suti, asal, asalari elimi)
+  3) Применение витаминотерапии в течение 1 года.
+  3) 1 yil davomida immunoterapiya qo'llaniladi
+  4) Применение 2-3 противотуберкулезных препаратов в течение 6 месяцев.
+  4) 6 oy davomida 2-3 tuberkulyozga qarshi dori vositalari qo'llaniladi
+
+
+31. Каковы особенности течения туберкулеза при снижении иммунитета у ЛЖВ?
+OIV bilan yashovchi kishilarda  immun tizimi kuchsizlanganda tuberkulyoz qanday kechadi?
+* 1) Возникновение плеврита, лимфаденопатии, перикардита, милиарный ТБ, менингит, диссеминированный ТБ.
+* 1) zotiljam, limfadenopatiya, perikardit, milliar tuberkulyoz, meningit va tarqalgan tuberkulyozni yuzaga keltirishi mumkin
+  2) Возникновение туберкулезной кардиомиопатии, лимфаденопатии.
+  2) kardiomiopatii, limfadenopatii tuberkulyozini yuzaga keltiradi
+  3) Возникновение туберкулезного пиелонефрита, гидронефроза.
+  3) pielonefrita, gidronefroza  tuberkulyozini yuzaga keltiradi
+  4) Возникновение туберкулезного остеопороза, гидроцефалия, остеопороз.
+  4) osteoporoza, gidrotsefaliya, osteoporoz tuberkulyozini yuzaga keltiradi
+
+
+32. Какие побочные реакции могут появиться при лечении туберкулеза?
+Tuberkulyozni davolash vaqtida qanday nojo'ya ta'sirlar paydo bo'lishi mumkin?
+* 1) Потеря аппетита.
+* 1) Ishtahaning yo'qolishi
+* 2) Тошнота и рвота.
+* 2) Ko'ngil aynishi va qusish
+* 3) Боли в животе.
+* 3) Qorindagi og'riqlar
+* 4) Кожный зуд.
+* 4) Teri ko'chishishi
+* 5) Желтушность склер и кожи.
+* 5) Ko'zning oq pardasi va terining sarg'ayishi
+* 6) Боли в суставах.
+* 6) Bo'g'imlardagi og'riqlar
+* 7) Шум в ушах.
+* 7) Quloqlardagi shovqin
+* 8) Шаткость походки.
+* 8) Harakatlanish beqarorligi
+* 9) Нарушение зрения.
+* 9) Ko'rish qobiliyatining buzilishi
+  10) Кашель с мокротой.
+  10) Balg'amli yo'tal
+  11) Кровохарканье.
+  11) Qon tuflash
+  12) Снижение веса.
+  12) Vazning kamayishi
+
+
+33. Каковы последствия необоснованной отмены противотуберкулезных препаратов в результате их непереносимости?
+Tuberkulyozga qarshi dori vositalarini ularga yuqori sezuvchanlik natijasida asoslanmagan bekor qilinishi qanday oqibatlarga olib kelishi mumkin?
+* 1) Развитие мультирезистентности туберкулезных бактерий.
+* 1) multirezistent (turg'un)tuberkulyoz bakteriyalarini paydo bo'lishiga olib keladi
+  2) Развитие лекарственной чувствительности туберкулезных бактерий.
+  2) Dorilarga sezuvchan tuberkulyoz bakteriyalarini paydo bo'lishiga olib keladi
+  3) Появление новых побочных эффектов.
+  3) Yangi nojo'ya ta'sirlarni paydo qiladi
+  4) Улучшение самочувствия.
+  4) O'zini yaxshi his qila boshlaydi
+
+
+34. Что такое туберкулез с множественной лекарственной устойчивостью?
+Ko'plab dori vositalariga turg'un tuberkulyoz (MDR-tuberkulyoz)nima?
+* 1) Форма туберкулеза, при которой микобактерии туберкулеза не восприимчивы к действию рифампицина и изониазида.
+* 1) Bu-tuberkulyoz mikrobakteriyalari rifampisinga va izoniazidga ta'siriga bardoshli bo'lib qolgan tuberkulyoz  shakli
+  2) Форма туберкулеза, при которой микобактерии туберкулеза восприимчивы к действию рифампицина.
+  2) Bu-tuberkulyoz mikrobakteriyalarining faqat rifampisinta'sirida bardoshli bo'lgan tuberkulyoz kkasalligining shakli
+  3) Форма туберкулеза, при которой микобактерии туберкулеза погибают от действия изониазида.
+  3) Bu-tuberkulyoz mikrobakteriyalarining izoniazid ta'sirida halok bo'ladigan tuberkulyoz kasalligi shakli
+  4) Форма туберкулеза, при которой микобактерии туберкулеза не восприимчивы к действию никаких антибиотиков.
+  4) Bu-tuberkulyoz mikobakteriyalari hech qaysi antibiotiklar ta'sirini qabul qilmaydigan tuberkulyoz kasalligi shakli
+
+
+35. Что такое туберкулез с широкой лекарственной устойчивостью?
+Keng dori vositalariga turg'un tuberkulyoz (KDT-tuberkulyoz)nima?
+* 1) Форма туберкулеза, при которой микобактерии туберкулеза устойчивы к действию фторхинолонов и одному их трех инъекционных противотуберкулезных препаратов второго ряда.
+* 1) Har qanday ftorxinolonga va ikkinchi qator tuberkulyozga qarshi inyeksion dori vositalarining uchtatuberkulyozan biriga qo'shimcha turg'unlikka aylanadi
+  2) Форма туберкулеза, при которой микобактерии туберкулеза устойчивы к действию антибиотиков широкого спектра действия.
+  2) Tuberkulyoz mikrobakteriyalari keng ta'sirli antibiotiklar ta'sirida turg'un tuberkulyoz kasalligi shakli
+  3) Форма туберкулеза, при которой микобактерии туберкулеза погибают от действия противовоспалительных препаратов.
+  3) Tuberkulyoz mikrobakteriyalari shamollashga qarshi dori vositalaridan halok bo'ladigan tuberkulyoz kasalligi shakli
+  4) Форма туберкулеза, при которой микобактерии туберкулеза восприимчивы к действию только фторхинолонов.
+  4) Tuberkulyoz mikrobakteriyalari faqat ftorxinolon ta'sirida qabul qiladigan tuberkulyoz kasalligi shakli
+
+
+36. Как проводится амбулаторное лечение туберкулеза?
+Tuberkulyoz ambulator shariotda qanday davolanadi?
+* 1) Лечение проводится на дому, или больной туберкулезом сам посещает лечебное учреждение.
+* 1) Davolanishda xalq tabobati, xalq tabobati usullaridan foydalaniladi (qimiz, tuya suti, asal, asalari yelimi)va bemor tabibga qatnaydi
+  2) Лечение проводится средствами народной медициной (кумыс, шубат, мед, прополис) или больной туберкулезом посещает табиба.
+  2) Davolanish uyda, bemorda bir haftalik dori berish orqali amalga oshiriladi
+  3) Лечение проводится на дому с выдачей больному туберкулезом препаратов сроком на неделю терапии.
+  3) Davolanish har qanday davlat yoki xususiy tibbiyot muassasasida olib boriladi
+  4) Лечение больного туберкулезом проводится в любом государственном или частном медицинском учреждении.
+  4) Istalgan davlat yoki xususiy tibbiyot muassasalarida tuberkulyoz kasallarni davolash amalga oshiriladi
+
+
+37. Как проводится стационарное лечение туберкулеза?
+Statsionar sharoitida davolanish qanday amalga oshiriladi?
+* 1) Лечение больного туберкулезом осуществляется при госпитализации в противотуберкулезное учреждение.
+* 1) Tuberkulyoz bilan og'rigan bemorni shifoxonaga joylashtirish bilan amalga oshiriladi
+  2) Лечение больного туберкулезом осуществляется при ежедневном посещении больным туберкулезом медицинского учреждения.
+  2) Tuberkulyoz bilan og'rigan bemorning har kuni tibbiyot muassasasiga qatnashi bilan amalga oshiriladi
+  3) Лечение больного туберкулезом осуществляется стационарно в государственном или частном медицинском учреждении.
+  3) Tuberkulyoz bilan og'rigan bemorning davolanishi davlat yoki xususiy tibbiyot muassasasida statsionar sharoinida amalga oshiriladi
+  4) Лечение больного туберкулезом осуществляется в поликлиниках по месту жительства.
+  4) Tuberkulyoz bilan og'rigan bemorning davolanishi yashash joyi bo'yicha poliklinikada amalga oshiriladi
+
+
+38. В чем преимущество амбулаторного лечения туберкулеза?
+Tuberkulyozni ambulator sharoinda davolashning afzalliklari nimada?
+* 1) Амбулаторное лечение более удобно для пациентов и дешевле стационарного лечения.
+* 1) Ambulator sharoitda davolanish bemor uchun statsionar shariotida davolanishdan ko'ra arzonroq
+  2) Амбулаторное лечение более удобно для медицинских работников.
+  2) Ambulator sharoitda davolanish tibbiyot hodimlari uchun qulay
+  3) При амбулаторном лечении больной туберкулезом человек имеет возможность самостоятельно менять схему лечения в зависимости от проявления побочных эффектов.
+  3) Ambulator sharoitda davolanishda bemor dorilarning nojo'ya ta'siriga qarab davolanish sxemasini mustaqil holda almashtirishi mumkin
+  4) Амбулаторное лечение не имеет значимых преимуществ и равноценно стационарному лечению.
+  4) Ambulator sharoitda davolanish htch qanday afzalliklarda ega emasva statsionar sharoitida davolanish bilan bir xil
+
+
+39. Какие условия необходимы для лечения туберкулеза на дому?
+Tuberkulyoz bilan og'rigan bemor uyda davolanishi uchun qavday sharoitlar zarur?
+* 1) Наличие для больного туберкулезом отдельной комнаты.
+* 1) Aholiga xonaning mavjud bo'lishi
+* 2) Отсутствие по месту проживания больного туберкулезом детей до 18 лет.
+* 2) Usgbu o'choqda 18 yoshga to'lmagan bolalarning bo'lmasligi
+* 3) Отсутствие по месту проживания больного туберкулезом беременных женщин.
+* 3) Bemorning yashash joyida homilador ayollarning bo'lmasligi
+* 4) Отсутствие по месту проживания больного туберкулезом пожилых людей.
+* 4) Bemorning yashash joyida keksa kishilarning bo'lmasligi
+  5) Отсутствие по месту проживания больного туберкулезом других людей.
+  5) Bemorning yashash joyida boshqa kishilarning bo'lmasligi
+  6) Наличие по месту проживания больного туберкулезом медицинского персонала в доме.
+  6) Bemorning yashash joyida tibbiyot hodimining bo'lishi
+  7) Место проживания больного туберкулезом должно находиться в пределах 10 километров от противотуберкулезного учреждения.
+  7) Bemorning yashash joyi silga qarshi muassasaga 10 km atrofida bo'lishi lozim
+
+
+40. Каковы наиболее важные продукты в рационе питания для больного туберкулезом?
+Tuberkulyoz bilan kasallangan bemorning ovqat ratsionida qaysi muhim mahsulotlar bo'lishi kerak?
+* 1) Белковые продукты, молочные продукты и витамины – фрукты, овощи, соки.
+* 1) oqtuberkulyozli mahsulotlar sut mahsulotlari va vitaminlar-sabzavotlar va mevalar, sharbatlar
+  2) Жиры животного происхождения, молочные продукты и витамины – фрукты, овощи, соки.
+  2) Hayvon yog'lari, sut mahsulotlari va vitaminlar-mevalar, sabzavotlar, sharbatlar
+  3) Углеводы - кондитерские изделия и витамины – фрукты, овощи, соки.
+  3) Uglevodlar-konditer mahsulotlari va vitaminlar- mevalar, sabzavotlar, sharbatlar
+  4) Сытные жареные мясные блюда и фрукты, овощи, соки.
+  4) Tuyumli qovurilgan, go'shtli ovqat va mevalar, sabzavotlar, sharbatlar
+
+
+41. Какой правильный режим дня надо соблюдать для больного туберкулезом?
+Tuberkulyoz bilan og'rigan bemor qanday rejimda amal qilishi lozim?
+* 1) Удлиненный сон.
+* 1) Uzaytirilgan uyqu
+* 2) Двухчасовой отдых в течение дня.
+* 2) Kun davomida 2 soatlik dam olish
+* 3) Прогулки на свежем воздухе.
+* 3) Toza havoda sayr
+  4) Силовые нагрузки.
+  4) Jismoniy yuklanish
+  5) Строгий постельный режим.
+  5) Qat'iy yotoq tartibi
+
+
+42. Каким должен быть режим труда для больного туберкулезом после того, как он стал незаразным?
+Tuberkulyoz bilan og'rigan odam zararsiz bo'lganidam so'ng qanday mehnat rejimida amal qilishi kerak?
+* 1) Рекомендуется избегать больших физических нагрузок.
+* 1) Katta jismoniy ishlardan nariroq bo'lishi tavsiya etiladi
+* 2) Рекомендуется работать в сухом, теплом, проветриваемом помещении.
+* 2) Quruq va shamollatiladigan xonada ishlash tavsiya etiladi
+* 3) Рекомендуется трудовой режим без нарушений сна.
+* 3) Uyqu rejimini buzmasdan ishlash tavsuya etiladi
+* 4) Рекомендуется трудовой режим с возможностью приема пищи.
+* 4) Ovqatlanish imkoniyati bo'lgan ishda ishlash tavsiya etiladi
+  5) Категорически запрещается работать.
+  5) Ishlash umuman taqiqlanadi
+  6) Рекомендуются повышенные физические нагрузки.
+  6) Katta jismoniy yukli ish tavsiya etiladi
+  7) Нет никаких ограничений трудового режима.
+  7) Mexnat rejimiga cheklov yo'q
+
+
+43. Каковы правила реабилитации после излечения от туберкулеза?
+Tuberkulyozdan davolangandan so'ng qanday reabilitasiya qoidalariga amal qilish lozim?
+* 1) Оптимальный режим труда и отдыха.
+* 1) Mehnat va dam olishning eng maqbul tartibi
+* 2) Прогулки на свежем воздухе.
+* 2) Toza havoda ko'proq vaqt o'tkazish
+* 3) Ограничение физических нагрузок.
+* 3) Jismoniy yuklanishni chegaralash
+* 4) Отсутствие стрессовых ситуаций.
+* 4) Stress holatlarining mavjud bo'lmasligi
+* 5) Постепенное закаливание организма.
+* 5) Organizmni asta-sekin chiniqtirish
+* 6) Диетотерапия.
+* 6) Diyetoterapiya
+  7) Постельный режим без физических нагрузок.
+  7) Jismoniy yuklanishsiz, yotish rejimi
+  8) Отсутствие общения с окружающими.
+  8) Atrofdagilar bilan muloqot qilmaslik
+  9) Усиленные физические нагрузки.
+  9) Kuchli jismoniy yukanish
+
+
+44. Какие правила должен соблюдать больной туберкулезом?
+Tuberkulyoz bilan og'rigan bemor qaysi qoidalarga amal qilishi kerak?
+* 1) Не прерывать лечение.
+* 1) Davolanishni to'tatmasligi kerak
+* 2) При кашле и чихании прикрывать рот салфеткой.
+* 2) Yo'talganda va aksirganda og'izni salfetka bilan yopish kerak
+* 3) Частое проветривать комнаты, где находится больной туберкулезом.
+* 3) Sil bilan kasallangan bemorlar joylashgan xona (palata)tez-tez shamollatib turilishi kerak
+  4) Больной туберкулезом не должен находиться в общественных местах большого скопления людей.
+  4) Sil bilan kasallangan bemor ko'p odamlar to'plangan joyda bo'lmasligi kerak
+  5) Больной должен быть полностью изолирован в закрытом непроветриваемом помещении.
+  5) Bemor yopiq, shamol kirmaydigan xonada butunlay boshqalardan ajratibb qo'yilishi kerak
+  6) На протяжении всего курса лечения больной туберкулезом не должен ни с кем общаться.
+  6) Davolanish jarayonida bemor hech kim bilan muloqotda bo'lmasligi kerak
+  7) На протяжении всего курса лечения больной туберкулезом не должен работать.
+  7) Davolanish jarayonida bemor ishlamasligi kerak
+
+
+45. При наличии в доме больного туберкулезом какие правила необходимо соблюдать?
+Uyda tuberkulyoz bilan og'rigan bemor bo'lganida qaysi qoidalarga rioya qilish kerak?
+* 1) Больному отдельно выделить полотенце, мыло, зубную щетку и набор посуды.
+* 1) Bemorga alohida sochiq, bo'lak sovun va tish chotkasi va alohida idishlar to'plami berilishi kerak
+* 2) Грязную посуду сначала залить крутым кипятком и потом мыть.
+* 2) Kirlangan idishlar ustidan avvalambor qaynoq suv quyiladi va so'ngra ular yuviladi
+* 3) Ежедневно проветривать комнаты.
+* 3) Har kuni xoani shamollatish lozim
+  4) Держать все окна и двери постоянно закрытыми.
+  4) Barcha derazalarni doivo ochiq holda qoldirish lozim
+  5) Не разрешать больному туберкулезом выходить из своей комнаты.
+  5) Bemorga o'z xonasidan chiqishga ruxsat berilmaydi
+  6) Разрешается больному туберкулезом спать в одной постели с членами семьи.
+  6) Bemorga o'z yaqinlari bilan bir joyda yotishga ruxsat berilmaydi
+
+
+46. Когда лечение туберкулеза считается эффективным?
+Qachon tuberkulyoz kasalligi davolabishi samarali hisoblanadi?
+* 1) Прекращение выделения ТБ бактерий, при микроскопическом исследовании мокрота становится отрицательной.
+* 1) Tuberkulyoz bakteriyalarining ajralib chiqilishi uzoq vaqt kechadi? Turg'un yakunlanish kuzatilganda
+  2) Больной туберкулезом начинает чувствовать себя значительно лучше, независимо от результатов микроскопии мокроты.
+  2) Balg'amning mikroskopik tahlillidan qat'iy nazar ,emor o'zini yaxshi his qila boshlaydi
+  3) Прекращение кашля, при микроскопическом исследовании мокрота становится положительной.
+  3) Balg'am mikroskopik tekshiruvda ijobiy bo'lib, yo'tal to'xtaganda
+  4) По истечении 1 полного месяца приема противотуберкулезных препаратов.
+  4) Tuberkulyozga qarshi dorilarni qabul qilishda 1 oy o'tgandan so'ng
+
+
+47. Причины повторного возникновения туберкулеза?
+Tuberkulyozning  qayta paydo bo’lishiga nima sabab bo’dishi mumkin?
+* 1) Плохое питание, частое переохлаждение, переутомление, злоупотребление алкоголем, употребление наркотиков.
+* 1) (yomon ovqatlanish, tez-tez sovuq qotish, charchoq, alkogolni suiiste'mol qilish, narkotik moddalarini qabul qilish
+  2) Здоровый образ жизни.
+  2) Sog’lom turmush  тarzi
+  3) Частое и длительное нахождение на жарком солнце.
+  3) Quyosh ostida uzoq ta tez bo'lish
+  4) Частые простуды, купание в холодной воде.
+  4) tez-tez shamollash, sovuq suvda cho'milish
+
+
+48. Что нужно делать при повторном появлении кашля и других симптомов, похожих на туберкулез?
+Odamda yo'tal va boshqa alomatlar takroran paydo bo'lganida nima qilish kerak?
+* 1) Сдать мокроту для микроскопического исследования на туберкулез.
+* 1) Tuberkulyozga mikroskopik tekshirish uchun balg'amni topshirishlari zarur
+  2) Пройти флюорографическое обследование.
+  2) EKG tekshiruvi
+  3) Провести ультразвуковое исследование сердца, сосудистой системы и легких.
+  3) O'pka va yurak va qon tomirlarini ultratovush orqali tekshirish lozim
+  4) Сдать общие анализы крови и мочи.
+  4) Umumiy qon va siydik tahlili
+
+
+49. Что такое Хартия пациентов о медицинской помощи больным туберкулезом?
+Tuberkulyoz bilan og'rigan bemorlarga tibbiy yordam ko'rsatuvchi Xartiya nima?
+* 1) Документ, в котором изложены права и обязанности людей с ТБ.
+* 1) Tuberkulyoz bilan kasallangan insonlarning huquq va majburiyatlari tavsiflab berilgan hujjat
+  2) Документ, в котором изложены права и обязанности врачей-фтизиатров.
+  2) Ftiziatr-shifokorlarning huquq va majburiyatlari tavsiflab berilgan hujjat
+  3) Документ, в котором изложены права пациентов с ТБ и их окружения.
+  3) Tuberkulyoz bilan og'rigan bemor va uning yaqinlarining huquq va majburiyatlari tavsiflab berilgan hujjat
+  4) Документ, в котором изложены обязанности здоровых людей, в отношении людей с ТБ.
+  4) Sog'lom insonlarning tuberkulyoz bilan og'rigan bemorlarga nisbatan majburiyatlari tavsiflab berilgan hujjat
+
+
+50. Какие обязанности имеют больные туберкулезом согласно Хартии пациентов о медицинской помощи больным туберкулезом?
+Tuberkulyoz bilan og'rigan bemorlarga Tibbiy yiodam ko'rsatuvchi Xartiya bo'yicha tuberkulyoz bilab og'rigan bemorlar qanday majburiyatlarga egalar?
+* 1) Соблюдение назначенного и согласованного плана и схемы лечения ТБ.
+* 1) Davolashning tayinlangan va kelishilgan rejasi va sxemasiga amal qilish
+* 2) Предоставление информации врачам относительно семейных контактов, контактов с близкими друзьями и теми, кто мог быть инфицирован.
+* 2) Oilaviy aloqalar, yaqin do'stlar bilan aloqalar va zaralangan insonlar bilan aloqalar xususiga sog'liqni saqlash hodimlariga
+* 3) Прилагать усилия к освобождению общества от бремени ТБ.
+* 3) Jamoyatni sil yuqiidan ozod qilishga kuchlarnu sarf qilish
+* 4) Предоставление информации работникам здравоохранения относительно текущего состояния прошлых заболеваний.
+* 4) Shifokorlarga oldin og'rigan kasalliklari haqida ma'lumot berish
+  5) Предоставление информации о своем диагнозе по месту работы, учебы и жительства.
+  5) O'zining tashxisi haqida ish, o'qisghva yashash joyiga xabar berishi lozim
+  6) Предоставление информации местным СМИ о своем диагнозе.
+  6) O'zining tashxisi haqida mahalliy OAVlariga xabar berishi kerak
+  7) Пациент обязан нести моральную ответственность только за свое здоровье.
+  7) Bemor faqat o'zining salomatligi uchun ma'naviy majburiyatga ega bo'lishi kerak
+
+
+51. Какую стратегию рекомендуют ВОЗ и Международный союз по борьбе с туберкулезом и болезнями легких?
+Butu jahon sog'liqni saqlash va tuberkulyoz va o'pka kasalliklari bilan kurashishning Xalqaro ittifoqi qaysi strategiyani tavsiya etadi?
+* 1) "Ликвидировать туберкулез".
+* 1) "Tuberkulyozni yo'q qilish"
+  2) "Ликвидировать инфекционные заболевания".
+  2) "Yuqumli kasalliklarni yo'q qilish"
+  3) "Ликвидировать ВИЧ и туберкулез".
+  3) "OIV va tuberkulyozni yo'q qilish"
+  4) "Остановить туберкулез".
+  4) "Tuberkulyozni to'xtatish"
+  5) "Остановить ВИЧ и туберкулез".
+  5) OIV va tuberkulyozni to'xtatish
+
+
+52. Принципами стратегии "Ликвидировать туберкулез" являются:
+"Tuberkulyozni yo'q qilish" Strategik tamoyillar quyidagilar:
+* 1) Адаптация стратегии и задач на страновом уровне при глобальном сотрудничестве.
+* 1) Global hamkorlikda mamlakat darajasida strategiya va vazifalarning moslashishi
+* 2) Тесное сотрудничество между организациями гражданского общества и местным населением.
+* 2) Fuqarolik jamiyatlari va mahalliy aholi o'rtasida chambarchas hamkorlik
+* 3) Защита прав человека, этических норм и принципа справедливости.
+* 3) Inson huquqlar, odo,-axloq me'yorlari va haqqoniylik tamoyillarining himoyalanishi
+* 4) Руководство и ответственность со стороны государства.
+* 4) Davlat tomonidan rahbarlik qilisg va mas'uliyat
+  5) Объединение больных инфекционными заболеваниями для самостоятельного решения своих проблем.
+  5) O'z muammolarini mustaqil hal etishlari uchun yuqumli kasalliklar bilan kasallanganlarni birlashtirish
+  6) Объединение больных туберкулезом для самостоятельно решения своих проблем.
+  6) O'z muammolarini mustaqil hal etishlari uchun sil bilan kasallangan bemorlarni birlashtirish
+
+
+53. Базовыми элементами и компонентами стратегии "Ликвидировать туберкулез" являются:
+" Tuberkulyozni yo'q qilish" strategiyasining asosiy elementlari va tarkibiy qismlari?
+* 1) Систематический скрининг лиц, находившихся в контакте, и групп повышенного риска.
+* 1) Aloqada bo'lgan va "yuqori xavflilik guruhidagi" shaxslarni tizimli tekshirish
+* 2) Лечение всех лиц с ТБ, включая ТБ с лекарственной устойчивостью и поддержка пациентов.
+* 2) Tuberkulyoz bilan kasallangan hamma shaxslarni davolash, shu qatorda dori vositasiga turg'un tuberkulyoz va bemorlarni qo'llab-quvvatlash
+* 3) Ранняя диагностика ТБ, тестирование на лекарственную чувствительность.
+* 3) Tuberkulyozni boshidanoq aniqlash, shu qatorda dorivositasiga sezuvchanlikka umumiy testni o'tkazish
+* 4) Профилактическое лечение лиц, подвергающихся повышенному риску, и вакцинация против ТБ.
+* 4) Xavfli guruhga kirishi mumkin bo'lganlarni profilaktik davolash va tuberkulyozga qarshi emlash
+  5) Совместные меры борьбы с ТБ/ВИЧ и ведение сопутствующих заболеваний.
+  5) OIV/Silga qarshi hamkorlikdagi chjora-tadbirkar va birgalikdagi kasalliklarni kuzatish
+  6) Разработка научно-практических проектов по ТБ и реализация их в системе здравоохранения.
+  6) Sil bo'yicha ilmiy-amaliy loyihalarni ishlab chiqarish va ularni sog'liqni saqlash tizimida amalga oshirish
+  7) Вакцинация и поддержка групп повышенного риска против всех инфекционных заболеваний.
+  7) Barcha yuqumli kasalliklarga qarshi emlash va zararlanish xavfi yuqori bo'lgan guruhlarni qo'llab-quvvatlash
+  8) Систематический скрининг лиц, находившихся в местах лишения свободы.
+  8) Ozodlikdan mahrum etish joylarida jazo o'tayotgan shaxslarni tizimli tekshirish
+  9) Профилактическое лечение лиц, подвергающихся повышенному риску, и вакцинация против гепатитов.
+  9) zararlanish xavfi yuqori bo'lgan shaxslarni profilaktik davolash va gepaninga qarshi emlash
+
+
+54. Что такое приверженность лечению туберкулеза?
+Tuberkulyozga qarshi davolanishga sodiqlik nima?
+* 1) Осознанный прием противотуберкулезных препаратов и соблюдение режима лечения в строгом соответствии с предписаниями врача.
+* 1) Anglagan holda shifokorning ko'rsatmasi asosida tuberkulyozga qarshi dorilar qabul qilish
+  2) Осознанный прием противотуберкулезных препаратов с перерывами, когда удобно больному туберкулезом.
+  2) Tuberkulyozga qarshi dorilardan anglagan holda lekin o'zi xohlagan vaqtda qabul qilish
+  3) Осознанный прием противовоспалительных препаратов и соблюдение режима лечения в строгом соответствии с предписаниями врача.
+  3) Shamollashga qarshi dorilarni anglagan, shifokorning ko'rsatmasiga va davolanishning rejimiga amal qilgan holda qabul qilish
+  4) Осознанный прием средств народной медицины (кумыс, шубат, мед, прополис) в строгом соответствии с предписаниями народных целителей.
+  4) Xalq tabobati vositalarini anglagan va tabibning ko'rsatvasiga qat'iyan amal qilgan holda qabul qilish (qimiz, tuya suti, asal, asalari yelimi va bq.)
+
+
+55. Если в организм попала палочка Коха, то человек обязательно заболеет туберкулезом?
+Agar organizmga Kox tayoqchasi tushsa? Odam albatta tuberkulyoz kasaliga duchor bo'ladimi?
+* 1) Нет, сильная иммунная система человека способна противостоять развитию туберкулеза.
+* 1) Yo'q, immunitet tuberkulyozni rivojlanishiga qarshilik ko'rsata oladi
+  2) Да, палочки Коха сразу начинают размножаться и вызывают заболевание.
+  2) Ha, Kox tayoqchasi darhol ko'payishni boshlaydi
+  3) Да, палочки Коха начинают размножаться не сразу, но осложнения от ее присутствия в организме возникают сразу.
+  3) Ha, Kox tayoqchasi darhol ko'paymaydi, lekin uning asiratlari organizmda darhol paydo bo'ladi
+  4) Да, если палочки Коха попадают в организм, заболевание неизбежно.
+  4) Ha, agar Kox tayoqchasi organizmga tushsa, tuberkulyoz kasalidan qochib bo'lmaydi
+
+
+56. Вредно ли для человека делать два раза в год рентген-обследование?
+Bir yilda bir ikki marta rentgen tekshiruvidan o'tish odam uchun zararlimi?
+* 1) Одно-два рентгеновских обследования в течение года абсолютно безопасны для здоровья человека.
+* 1) Bir yoki ikki marta rentgen nuri tekshiruvidan o'tish odam uchun mutlaqo zararsiz
+  2) Вредно, человек может заболеть лучевой болезнью.
+  2) Zararli, odam nurlanish kasaliga chalinishi mumkin
+  3) Вредно, рентгеновское облучение ослабляет иммунную систему.
+  3) Zararli, odamning imun tizimini kuchsizlantiradi
+  4) Рентгеновское облучение приносит пользу организму
+  4) Rengten nurlari odam organizmi uchun foydali
+
+
+57. Как образуется мокрота?
+Balg'am qanday paydo bo'ladi?
+* 1) Микобактерии туберкулеза вызывают воспаление легочной ткани и образуются бугорки, вследствие чего происходит их разрушение и содержимое – мокрота – попадает в бронхи.
+* 1) Tuberkulyoz mikobakteriyalari o'pka to'qimalaarida shamollashni chaqiradi va  do’ngliklar paydo bo'ladi va yemiriladi, ularning tarkibi esa bronxga tushadi
+  2) Микобактерии туберкулеза обильно выделяют продукты жизнедеятельности, образуя мокроту.
+  2) Tuberkulyoz mikrobakteriyalari balg'amni paydo qilib, Hayot faoliyati uchun ko'p mahsulot isglab chiqaradi
+  3) Микобактерии туберкулеза вызывают разрыв кровеносных сосудов, кровь скапливается в трахее и при кашле выходит наружу.
+  3) Tuberkulyoz mikobakteriyalari qon tomirlarini yorilishga olib keladi, qon traxeyada to'planib yo'talganda qon tuflanadi
+  4) Микобактерии туберкулеза вызывают воспаление легочной ткани и разрыв бронхов.
+  4) Tuberkulyoz mikobakteriyalari o'pka   to'qimalarini shamollashiga  va bronxlarni yorilishga olib keladiDone!
